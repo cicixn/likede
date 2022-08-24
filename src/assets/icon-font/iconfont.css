@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "likede-icon"; /* Project id 3590541 */
+  src: url('iconfont.woff2?t=1661307886962') format('woff2'),
+       url('iconfont.woff?t=1661307886962') format('woff'),
+       url('iconfont.ttf?t=1661307886962') format('truetype');
+}
+
+.likede-icon {
+  font-family: "likede-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dingdanguanli:before {
+  content: "\e666";
+}
+
+.icon-celue:before {
+  content: "\eaac";
+}
+
+.icon-shouye:before {
+  content: "\e64f";
+}
+
+.icon-weizhi:before {
+  content: "\e7e0";
+}
+
+.icon-gongdan:before {
+  content: "\e6e5";
+}
+
+.icon-renyuanguanli:before {
+  content: "\e62e";
+}
+
+.icon-shebei:before {
+  content: "\e672";
+}
+
+.icon-shangpin:before {
+  content: "\e6c1";
+}
+
+.icon-yanjing:before {
+  content: "\e661";
+}
+
+.icon-yanjing_bi:before {
+  content: "\e61b";
+}
+
+.icon-yanzhengma:before {
+  content: "\e619";
+}
+

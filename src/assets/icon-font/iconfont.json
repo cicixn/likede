@@ -1,0 +1,86 @@
+{
+  "id": "3590541",
+  "name": "立可得",
+  "font_family": "likede-icon",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12331671",
+      "name": "工单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "3020033",
+      "name": "二级-报表策略",
+      "font_class": "celue",
+      "unicode": "eaac",
+      "unicode_decimal": 60076
+    },
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "4553749",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "8688320",
+      "name": "事件工单管理",
+      "font_class": "gongdan",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "12820178",
+      "name": "人员管理",
+      "font_class": "renyuanguanli",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "13672652",
+      "name": "充电桩",
+      "font_class": "shebei",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "16517980",
+      "name": "拼图",
+      "font_class": "shangpin",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "630126",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "7708024",
+      "name": "眼睛_闭",
+      "font_class": "yanjing_bi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "8455373",
+      "name": "验证码",
+      "font_class": "yanzhengma",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
